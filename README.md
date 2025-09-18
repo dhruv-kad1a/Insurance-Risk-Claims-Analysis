@@ -1,4 +1,4 @@
-<img width="1120" height="666" alt="Dashboard" src="https://github.com/user-attachments/assets/0b3ae31e-f778-4986-ae47-06a19b2458c1" /># Insurance Risk & Claims Analysis
+# Insurance Risk & Claims Analysis
 ## Project Overview
 This project focuses on analyzing insurance policies and claim patterns using Power BI. The goal is to help insurers gain deeper insights into customer demographics, vehicle details, and claim behaviors, enabling data-driven decision-making for risk management, pricing strategies, and fraud detection.
 
