@@ -37,7 +37,7 @@ The Power BI dashboard includes:
 - Area Chart: Claims by Car Year
 - Ribbon Chart: Impact of Kids Driving on risk
 - Matrix Heat Grid: Education & Marital Status segmentation
-<img src="https://github.com/user-attachments/assets/32d27df8-2380-4bc2-a4c9-15c8a05d38a6" width="300"/>
+<img src="https://github.com/user-attachments/assets/32d27df8-2380-4bc2-a4c9-15c8a05d38a6" width="500"/>
 
 
 **Business Impact**
